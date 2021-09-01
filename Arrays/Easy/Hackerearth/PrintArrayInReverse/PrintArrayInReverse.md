@@ -11,5 +11,5 @@ Print all the elements of the array in reverse order, each element in a new line
 
 Constraints:
 
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text1 \le N \le 100 " />
-- <img src="https://latex.codecogs.com/gif.latex?0 \le A[i] \le 1000 " />
+- <img src="https://latex.codecogs.com/gif.latex?1&space;\le&space;N&space;\le&space;100" title="1 \le N \le 100" />
+- <img src="https://latex.codecogs.com/gif.latex?0&space;\le&space;A[i]&space;\le&space;1000" title="0 \le A[i] \le 1000" />
